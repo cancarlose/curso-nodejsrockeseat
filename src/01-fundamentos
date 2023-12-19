@@ -1,0 +1,24 @@
+// UUID => Universal Unique ID
+
+// ROTAS
+// Criar Usuários
+// Listar Usuários
+// Editar Usuários
+// Remover Usuários
+
+// HTTP
+// Método HTTP
+// URL
+
+// GET - Busca Recursos da ROTA
+// POST - Cria Recursos na ROTA
+// PUT - Atualiza Recursos na ROTA
+// PATCH - Atualiza Recurso em específico na ROTA
+// DELETE - Deleta um Recurso na ROTA
+
+// GET/users => Buscando usuários do backedn
+// POST/users => Criar um usuário no backend]
+
+// Cabeçalhos (Requisição/Resposta) => Metadados
+
+// HTTP Status Code

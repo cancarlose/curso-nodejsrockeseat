@@ -1,0 +1,7 @@
+// Query Parameters: URL Stateful => Filtros, paginação, não são obrigatórios
+// Route Parameters: Identificação de recurso
+// Request Body: Envio de informações de um formulário (HTTPS)
+
+// http://localhost:3333/users?userId=1&name-Diego - Query
+// GET http://localhost:3333/users/1 - Route
+// POST http://localhost:3333/users
